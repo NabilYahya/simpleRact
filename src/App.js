@@ -8,7 +8,7 @@ import FormInput from "./FormInput";
 import Home from "./Home";
 
 import { BrowserRouter, Route, Routes } from "react-router-dom";
-//test
+//test2
 function App() {
   const data = [
     {
